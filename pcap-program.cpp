@@ -2,7 +2,6 @@
 
 #include <stdio.h>
 #include <pcap.h>
-#include "eth.h"
 int main(int argc, char *argv[])
 {
 	//1. start by getting a device interface to read packets from
